@@ -22,5 +22,5 @@ Weather data set came from the [European Climate Assessment and Data Set Project
 The project files contain the following:
 
 - Scripts: Jupyter notebooks containing code for analysis and algorithms
-- Project brief: Machine Learning with Python
+- Project briefs: Objectives, company profile, and project details
 - Presentations: Interim report and final presentation with recommendations on algorithms to use for future analysis
